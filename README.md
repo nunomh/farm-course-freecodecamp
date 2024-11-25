@@ -5,8 +5,9 @@
 - FastAPI (Python framework)
 - React
 - MongoDB
+- Docker
 
-## Server
+## FastAPI Server (Backend)
 
 ### Project Creation
 
@@ -24,7 +25,7 @@ To run the project, use the following command in the terminal:
 
 A SwaggerUI is automatically created on /docs (http://127.0.0.1:8000/docs)
 
-## React
+## React (Frontend)
 
 ### Project Creation
 

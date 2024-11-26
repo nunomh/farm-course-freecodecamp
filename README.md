@@ -50,3 +50,10 @@ The project was created using the create-react-app command. Commands used: `npx 
 - pyproject.toml
 - `pip install "fastapi[all]" "motor[srv]" beanie aiostream`
 - `pip freeze > requirements.txt`
+
+## Frontend
+
+### Project Creation
+
+`npx create-react-app .`
+`npm install axios react-icons`

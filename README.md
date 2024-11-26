@@ -57,3 +57,7 @@ The project was created using the create-react-app command. Commands used: `npx 
 
 `npx create-react-app .`
 `npm install axios react-icons`
+
+### Running the Project
+
+`docker-compose up --build`

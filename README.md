@@ -1,11 +1,15 @@
 # FARM Course
 
+Based on youtube freecodecamp video https://www.youtube.com/watch?v=PWG7NlUDVaA
+
 ## Technologies Used
 
 - FastAPI (Python framework)
 - React
 - MongoDB
 - Docker
+
+## Intro Examples
 
 ## FastAPI Server (Backend)
 
@@ -34,3 +38,15 @@ The project was created using the create-react-app command. Commands used: `npx 
 ### Running the Project
 
 `npm start`
+
+## TODO App
+
+## Backend
+
+### Project Creation
+
+- `python -m venv venv`
+- Dockerfile
+- pyproject.toml
+- `pip install "fastapi[all]" "motor[srv]" beanie aiostream`
+- `pip freeze > requirements.txt`
